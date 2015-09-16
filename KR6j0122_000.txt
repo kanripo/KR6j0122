@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金輪王佛頂要略念誦法
+#+DATE: 2015-08-30 20:26:16.943451
+#+PROPERTY: JUAN 0
